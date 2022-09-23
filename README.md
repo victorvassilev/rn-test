@@ -1,6 +1,6 @@
 ### Requirements
 
-Create an app listing all the Crypto ATMs in Amsterdam on a MapView with specific pins style per type of venue.
+Create an app listing all the Crypto ATMs in Amsterdam on a MapView with specific pins style per type of venue. (up to you to style them and define them on app level, hint: look at the property 'category' in the list)
 
 You can use this API doc for instructions how to fetch the needed list:
 
